@@ -13,7 +13,7 @@ var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Votre Serveur";
+var l_serverName = "JolfRP";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -88,6 +88,11 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
+    {ogg: "songs/[fried_noodles].ogg", name: "[fried_noodles] - DVNZXL"},
+    {ogg: "songs/call.ogg", name: "Don't Call Me At All - flatsound"},
+    {ogg: "songs/piscine.ogg", name: "Piscine - Woosta"},
+    {ogg: "songs/potato.ogg", name: "Couch Potato - Sumsimia"},
+    {ogg: "songs/throw.ogg", name: "Throw Me Away - The Storm"}
 ];
 
 /*Random music order?*/
